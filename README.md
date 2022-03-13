@@ -1,2 +1,1 @@
-# WebTechAssignment
-College Web Tech Assignment
+# My Portfolio
